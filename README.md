@@ -9,14 +9,9 @@
 <hr>
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Zeb-D&include_all_commits=true&hide_border=true&theme=dark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeb-D&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=" />
 
-<h4 align="center">
-  <a href="https://github.com/Zeb-D/my_github_profile_views_counter">
-		<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeb-D&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=" />
-	</a>
-</h4>
 
-# Technologies
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
