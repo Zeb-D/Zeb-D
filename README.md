@@ -3,10 +3,5 @@
 ### Hi 👋
 
 - :orange_book: Focusing on Golang & Rust
-- [📘 系统性学习](https://github.com/Zeb-D/my-review)
-- [🌱 golang 常用工具](https://github.com/Zeb-D/go-util)
-
-<hr>
-
-<img align="right" width="350em" src="https://github-readme-streak-stats.herokuapp.com/?user=Zeb-D&include_all_commits=true&hide_border=true&theme=dark" />
-<img align="left" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeb-D&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=" />
+- [📘 IT Learn Experience](https://github.com/Zeb-D/my-review)
+- [🌱 library for golang](https://github.com/Zeb-D/go-util)
