@@ -3,5 +3,5 @@
 ### Hi 👋
 
 - :orange_book: Focusing on Golang & Rust
-- [📘 IT Learn Experience](https://github.com/Zeb-D/my-review)
+- [📘 Architect Experience](https://github.com/Zeb-D/my-review)
 - [🌱 library for golang](https://github.com/Zeb-D/go-util)
