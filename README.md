@@ -2,6 +2,6 @@
 
 ### Hi 👋
 
-- :orange_book: Focusing on Golang & Rust
+- :orange_book: Focusing on architecture-design & AI
 - [📘 Architect Experience](https://github.com/Zeb-D/my-review)
 - [🌱 library for golang](https://github.com/Zeb-D/go-util)
